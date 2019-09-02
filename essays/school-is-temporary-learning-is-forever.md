@@ -8,7 +8,7 @@ labels:
   - Education
   - Learning
 ---
-<img class="ui tiny right spaced image" src="../images/Learning.jpg">
+<img class="ui right spaced image" src="../images/Learning.jpg">
 
 ## 1  Introduction
 The purpose of this paper is to “explore lifelong learning, and in particular as it pertains to the professional development of a computer or electrical engineer.  Lifelong learning is important to everyone but especially to professionals in the technology fields, which change rapidly over time.  It is important for an engineer, who may have a career spanning three or four decades, to continually learn and develop.  This is especially so because it is quite common for an engineer’s professional role to change over time from say design engineer to management or sales [1].” This paper is split into four sections. The first section is the introduction, which describes the purpose and organization of this paper. The second section describes what lifelong learning is and what it means to an aspiring computer engineer or electrical engineer. The third section answers why lifelong learning is important. The final section is the conclusion, where all the contents of this paper are briefly summed up. 
