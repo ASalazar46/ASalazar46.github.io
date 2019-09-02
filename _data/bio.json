@@ -28,57 +28,54 @@
     ]
   },
   "interests": [
-    /*{
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
     {
-      "name": "data mining",
+      "name": "game development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "computer building",
       "keywords": [
       ]
-    }*/
+    },
+    {
+      "name": "front-end and back-end programming",
+      "keywords": [
+      ]
+    }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "Programming Languages",
+      "level": "Basic",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "CSS"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Other",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows 10",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "GitHub",
+        "Verilog"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "Fall 2016",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.48",
       "courses": [
       ]
     }
