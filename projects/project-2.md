@@ -13,11 +13,16 @@ labels:
 summary: The final application build for the class, EE205. It is a text-based RPG game. 
 ---
 
-<img class="ui medium right floated rounded image" src="/images/project1pic.png">
-Right: A test of the text-to-morse code application, using the direct translation method 
+<img class="ui medium right floated rounded image" src="/images/project2pic.png">
+Right: A placeholder image for an actual sample screenshot of the project. Coming soon... 
 
-As apart of the engineering curriculum, all engineering students are required to undergo a series of projects through out their sophomore, junior, and senior years here at the University of Hawaii at Manoa. These projects are labeled as EE/ENGR 296, 396, and 496, respectively. For this project, EE296, I was tasked to come up with an idea for an Android application, create it, and load it onto an Android device.
+As apart of the computer engineering curriculum, all computer engineering students are required to complete EE205, introduction to C++. The title of the class describes what was done in the class: we learn the basics of C++ and apply them by programming an application of our group's choice. By the title of this project, our group chose to create a text-base RPG adventure. 
 
-To this end, the first objective was to learn the basics of Java and Android Studio. Free tutorials for learning Java and Android Studio can be found on udacity.com, under the series "Android Basics." These tutorials discusses the basics of user interfaces, user input, multiscreen apps, networking, and data storage in Android Studio. This objective took the first 2/3 of the semester, at 10 hours spent per week learning the material.
+There were four of us in a group. I was tasked as the main designer of the game and story-teller. The others worked on user interface, combat mechanics, more story-telling, and character development. 
 
-The rest of the semester was spent coming up with an idea for an application and programming it, which are the second and third objectives, respectively. The idea that I came up with was a text-to-morse-code translator. Inspiration of this application stems from the idea of utilizing a phone as a survival tool. Should one be rendered unable to communicate with their voice in a hostile environment, the person could use this app to translate a sentence into morse code and transmit the message. Methods of transmission includes a direct translation (you can see the dots and dashes that the sentence translates to on-screen), bursts of flashes (should one's phone have flashlight capabilities), and sound clips of short and long beeps. 
+As the main designer, I was given control on how the game works. The game works like this: Once starting the game from the main menu, a player chooses from a warrior, wizard, or jedi (for testing purposes only) and goes through the story. Paragraphs of text scrolls onto the screen describing events that are happening to the character. Certain paragraphs will prompt the player with choices, to which these choices how the character interacts with the story. For example, from the game:                                                                   You stumble upon a boulder with a smiley face painted on its surface. It is blocking your path to the cave, and there is no                 way around it. How do you proceed?                                                                                                                  1. Give up adventuring and go home                                                                                                          2. Find a way to destroy the boulder                                                                        Certain paragraphs will prompt combat situations, to which the character can use moves to do combat with the enemy. Choices matter (somewhat) both in the story and in combat, to spice up the gameplay a bit and alter what ending the player earns. 
+
+User interface refers to the main menu and positioning of the test. Combat mechanics controls how combat is handled. Character development determines the initial stats of each available character class. Story-telling is the story itself.
+
+
+
