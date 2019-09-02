@@ -6,7 +6,7 @@
     "email": "as46@hawaii.edu",
     "phone": "808-352-7243",
     "website": "https://ASalazar46.github.io/",
-    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "91-1203 Kauiki St",
       "postalCode": "96706",
@@ -24,22 +24,37 @@
         "network": "linkedin",
         "username": "Andrew Salazar",
         "url": "https://www.linkedin.com/in/andrew-salazar-baa304192/"
+      },
+      {
+        "network":"techhui",
+        "Username":"Andrew Salazar",
+        "url":"http://www.techhui.com/profile/AndrewSalazar"
       }
     ]
   },
   "interests": [
     {
-      "name": "game development",
+      "name": "Game Development",
       "keywords": [
       ]
     },
     {
-      "name": "computer building",
+      "name": "Computer Building",
       "keywords": [
       ]
     },
     {
-      "name": "front-end and back-end programming",
+      "name": "Front-end Programming",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Back-end Programming",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Archery",
       "keywords": [
       ]
     }
@@ -58,13 +73,15 @@
       ]
     },
     {
-      "name": "Other",
+      "name": "Other Software",
       "level": "",
       "keywords": [
         "Windows 10",
         "Ubuntu",
         "GitHub",
-        "Verilog"
+        "Verilog",
+        "Android Studio",
+        "MATLAB"
       ]
     }
   ],
@@ -92,6 +109,12 @@
       "date": "",
       "awarder": "NSCS, University of Hawaii at Manoa Chapter",
       "summary": "Invited to and joined the National Society of Collegiate Scholars"
+    },
+    {
+      "title": "Manoa Opportunity Grant",
+      "date": "",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": ""
     }
   ]
 }
