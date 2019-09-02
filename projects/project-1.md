@@ -13,7 +13,7 @@ labels:
 summary: The final application build for my required class, EE296. It is a text-to-morse-code translator. 
 ---
 
-<div class="ui small rounded images">
+<div>
   <img class="ui image" src="../images/project1pic.png">
 </div>
 Above: A test of the text-to-morse code application, using the direct translation method 
