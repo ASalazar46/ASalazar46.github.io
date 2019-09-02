@@ -14,8 +14,9 @@ summary: The final application build for my required class, EE296. It is a text-
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/project1pic.png">
 </div>
+Above: A test of the text-to-morse code application, using the direct translation method 
 
 As apart of the engineering curriculum, all engineering students are required to undergo a series of projects through out their sophomore, junior, and senior years here at the University of Hawaii at Manoa. These projects are labeled as EE/ENGR 296, 396, and 496, respectively. For this project, EE296, I was tasked to come up with an idea for an Android application, create it, and load it onto an Android device.
 
