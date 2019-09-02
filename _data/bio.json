@@ -34,6 +34,11 @@
   },
   "interests": [
     {
+      "name": "PC Gaming",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Game Development",
       "keywords": [
       ]
@@ -77,11 +82,13 @@
       "level": "",
       "keywords": [
         "Windows 10",
-        "Ubuntu",
+        "Ubuntu/Linux",
         "GitHub",
         "Verilog",
         "Android Studio",
-        "MATLAB"
+        "MATLAB",
+        "SQLite",
+        "JSON"
       ]
     }
   ],
@@ -115,6 +122,12 @@
       "date": "",
       "awarder": "University of Hawaii at Manoa",
       "summary": ""
+    },
+    {
+      "title":"Dean's List",
+      "date":"Fall 2016, Spring 2016, Fall 2017",
+      "awarder":"University of Hawaii at Manoa",
+      "summary":"Achieved a GPA of 3.5 of higher"
     }
   ]
 }
