@@ -1,25 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/project2front.png
+title: Text-Based RPG Adventure
+permalink: projects/EE205Project
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-01-07
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Ubuntu/Linux
+  - C++
+  - EE205
+summary: The final application build for the class, EE205. It is a text-based RPG game. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="/images/project1pic.png">
+Right: A test of the text-to-morse code application, using the direct translation method 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+As apart of the engineering curriculum, all engineering students are required to undergo a series of projects through out their sophomore, junior, and senior years here at the University of Hawaii at Manoa. These projects are labeled as EE/ENGR 296, 396, and 496, respectively. For this project, EE296, I was tasked to come up with an idea for an Android application, create it, and load it onto an Android device.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+To this end, the first objective was to learn the basics of Java and Android Studio. Free tutorials for learning Java and Android Studio can be found on udacity.com, under the series "Android Basics." These tutorials discusses the basics of user interfaces, user input, multiscreen apps, networking, and data storage in Android Studio. This objective took the first 2/3 of the semester, at 10 hours spent per week learning the material.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+The rest of the semester was spent coming up with an idea for an application and programming it, which are the second and third objectives, respectively. The idea that I came up with was a text-to-morse-code translator. Inspiration of this application stems from the idea of utilizing a phone as a survival tool. Should one be rendered unable to communicate with their voice in a hostile environment, the person could use this app to translate a sentence into morse code and transmit the message. Methods of transmission includes a direct translation (you can see the dots and dashes that the sentence translates to on-screen), bursts of flashes (should one's phone have flashlight capabilities), and sound clips of short and long beeps. 
