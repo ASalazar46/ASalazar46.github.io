@@ -10,7 +10,7 @@ labels:
   - JavaScript
   - Reflection
 ---
-<img class="ui mini image" src="../images/ReflectOne.jpg">*A fish who does not know what is going to happen next. Super relatable*
+<img class="ui medium image" src="../images/ReflectOne.jpg">*A fish who does not know what is going to happen next. Super relatable*
 
 ## 
 My initial thoughts about this class (introduction to software engineering) were mixed. I have heard that this class does not follow standard teaching routines, where students would sit in front of an instructor who will proceed to lecture for the whole class period. Instead, it follows an athletic one (called atheltic software engineering), where students learn the material on their own time and practice that material in class. This practice is in the form of multiple Workout Of The Days (WODS for short) per week. It is now almost the end of week two, and I was tasked to learn Javascript and use that knowledge to complete this week's set of WODS. 
