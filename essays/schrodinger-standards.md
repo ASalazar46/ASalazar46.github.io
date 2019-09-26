@@ -10,6 +10,7 @@ labels:
   - ESLint
   - Javascript
 ---
+<img class="ui image" src="../images/cat.PNG">*Schrodinger's Cat*
 ## What do you mean "Schrodinger's Coding Standards?"
 To understand where this reflection is going, I must first describe the analogy to Schrodinger's cat. This concept is probably one of the only things I remember from my modern physics course. Basically, Schrodinger had a cat, and he conducted a thought experiment on it (not an actual experiment). In this thought experiment, he enclosed a cat in a box along with a radioactive atom that could kill the cat. He then came up with the idea that as long as he did not open the box to observe the cat, then the cat would be both alive and dead simultaneously. 
 
