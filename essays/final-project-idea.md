@@ -13,7 +13,12 @@ labels:
   their area can give them a ride. 
   
 ## Mockup Ideas/Approach
-
+<div class="ui bulleted list">
+    <div class="item">Landing Page</div>
+    <div class="item">User Calendar Page</div>
+    <div class="item">Calendar Edit Page</div>
+    <div class="item">Confirm Ride Page</div>
+</div>
 ## Case Ideas
 <div class="ui bulleted list">
   <div class="item">New user goes to landing page and logs in, creates a profile</div>
