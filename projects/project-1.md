@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project1front.png
+image: images/morse.png
 title: Morse Code Application
 permalink: projects/EE296Project
 # All dates must be YYYY-MM-DD format!
