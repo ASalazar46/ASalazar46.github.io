@@ -15,7 +15,7 @@ labels:
   - Software Engineering
 summary: A web application, built with Meteor, that allows users to find study spots around the UH campus. 
 ---
-<img class="ui large image" src="/images/landingpage.JPG">
+<img class="ui image" src="/images/landingpage.JPG">
 *The landing page to Beyond The Library web application*
 
 The main purpose of this web application is to assist students at the University of Hawaii at Manoa to search for study spots around campus. The two libraries on campus, Sinclair Library and Hamilton Library, are go-to spots to study and, at times, could get crowded. This app lists spots around campus, and has a map with a collection of markers denoting the locations of study spots. Users, if logged in, can also submit study spots. These spots can then be reviewwed by an admin to add it to the list or reject it.
