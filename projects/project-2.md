@@ -23,7 +23,9 @@ There were four of us in a group. I was tasked as the main designer of the game 
 As the main designer, I was given control on how the game works. The game works like this: Once starting the game from the main menu, a player chooses from a warrior, wizard, or jedi (for testing purposes only) and goes through the story. Paragraphs of text scrolls onto the screen describing events that are happening to the character. Certain paragraphs will prompt the player with choices, to which these choices how the character interacts with the story. For example, from the game:                                    
 
 You stumble upon a boulder with a smiley face painted on its surface. It is blocking your path to the cave,and there is no way around it. How do you proceed?                                                                                                                  
-  1. Give up adventuring and go home                                                                       2. Find a way to destroy the boulder                                                                    
+  1. Give up adventuring and go home                                                                       
+  
+  2. Find a way to destroy the boulder                                                                    
 
 Certain paragraphs will prompt combat situations, to which the character can use moves to do combat with the enemy. Choices matter (somewhat) both in the story and in combat, to spice up the gameplay a bit and alter what ending the player earns. 
 
