@@ -20,10 +20,6 @@ As a requirement of the engineering curriculum, all engineering students are to 
 
 I was assigned the role of dashboard member. My objective as this role is to develop the front-end and back-end software of the project's dashboard. This means that my group handles how data retrieved from the weatherboxes is displayed, create graphs and charts from such data, and analyze the data. The main languages to learn for this project are Javascript, HTML, and CSS. However, in the future we will need to learn Python and SQL for the back-end. This project will develop my teamworking and communication skills, as well as deepen my experiences in programming. 
 
-An overview of the project can be found here: 
+[Click me for an overview of the project](https://sites.google.com/a/hawaii.edu/uh-vip/teams/scel)
 
-[a link](https://sites.google.com/a/hawaii.edu/uh-vip/teams/scel)
-
-Link to the SCEL wiki page: 
-
-[a link](https://wiki.scel-hawaii.org/doku.php)
+[Click me to go to the SCEL wiki page](https://wiki.scel-hawaii.org/doku.php)
