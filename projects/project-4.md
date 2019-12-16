@@ -24,8 +24,14 @@ As for my contribution to the project, I created the Discovery page, where all t
 
 The lessons to take away from this project are important. I learned how to design applications using the Meteor app framework. I learned how to make changes to the project's source code with the IntelliJ IDEA IDE, and learned how to publish those changes to the repository on GitHub. From this, I then learned how to run our code (it is a simple one line command input to the console) and test it locally for functionality. As for working in a team, I became better at coordinating issues with my team mates. When I had become stuck my teammates would help as best as they could to resolve what issue I had with the code, and I would do the same for them. While this is my first experience with software engineering in a while, this experience has been fruitful despite the setbacks in application features. 
 
-Link to the Beyond The Library home page: https://beyond-the-library.github.io/
+Link to the Beyond The Library home page: 
 
-Link to the Beyond The Library project page: https://github.com/beyond-the-library/beyond-the-library
+[a link](https://beyond-the-library.github.io/)
 
-Link to the Beyond The Library organization page: https://github.com/beyond-the-library
+Link to the Beyond The Library project page: 
+
+[a link](https://github.com/beyond-the-library/beyond-the-library)
+
+Link to the Beyond The Library organization page: 
+
+[a link](https://github.com/beyond-the-library)
