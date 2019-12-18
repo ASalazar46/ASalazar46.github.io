@@ -28,4 +28,4 @@ The lessons to take away from this project are important. I learned how to desig
 
 [Click me to go to the Beyond The Library project page](https://github.com/beyond-the-library/beyond-the-library)
 
-[Click me to go to the to the Beyond The Library organization page: ](https://github.com/beyond-the-library)
+[Click me to go to the Beyond The Library organization page: ](https://github.com/beyond-the-library)
